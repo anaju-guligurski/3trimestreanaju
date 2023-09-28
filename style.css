@@ -20,7 +20,7 @@ img{
 }
 
 .cabecalho{
-    background-color:rgb(141, 175, 125)
+    background-color:rgb(141, 175, 125);
 }
 .lista_cabecalho{
     display: flex;
